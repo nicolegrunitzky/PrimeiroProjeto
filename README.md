@@ -1,2 +1,2 @@
 # PrimeiroProjeto
-Este será o nosso primeiro comit.
+Este será o nosso primeiro commit.
